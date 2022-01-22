@@ -1,0 +1,13 @@
+JavaScript Basic Refresher
+
+1. Weakly typed language
+    > no explicit type assignment to variables
+    > data types can be switched dynamically (careful; can cause lot of issues)
+2. Object oriented language
+    > data can be organised in logical objects
+    > need to know about and difference between primitive and reference types
+3. Versatile language
+    > Runs in browser and directly on a PC or server
+    > Can perform a broad variety of tasks
+    
+
