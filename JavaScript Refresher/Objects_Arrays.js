@@ -1,4 +1,4 @@
-// Working with objects, properties and methods
+// Working with objects, properties, methods and Arrays
 
 const person = {
     name: "Siva",
